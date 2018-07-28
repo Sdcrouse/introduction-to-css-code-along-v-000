@@ -17,9 +17,9 @@ This [Pen][] (saved [Codepen][] document) contains an HTML document with the fol
 
 The [Pen][] also includes commented out CSS Code to (`/* this is a CSS comment */`):
 - Set the background of the [`<body>`] element (whole document) to `#00b3e6` (light blue)
-- Sets the [`<article>`] element width to `700px`
-- Centers the [`<article>`] element
-- Sets the font family of the [`<article>`] element to `Helvetica Neue`. Alternative fonts are provided in the event `Helvetica Neue` is not available on your computer
+- Set the [`<article>`] element width to `700px`
+- Center the [`<article>`] element
+- Set the font family of the [`<article>`] element to `Helvetica Neue`. Alternative fonts are provided in the event `Helvetica Neue` is not available on your computer
 - Set the background of the [`<article>`] element to `white`
 - Add 30px of white space to perimeter of the [`<article>`]
 - Set the `font-size` to `22px` for the element with `id` `main-header`
